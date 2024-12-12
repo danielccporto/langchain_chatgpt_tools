@@ -91,7 +91,6 @@ The solution is implemented in an interactive web interface using **Streamlit**,
 The agent proved to be an efficient and practical solution for centralizing information in an accessible format.
 
 ---
-
 ## **Future Improvements**
 1. Add more tools, such as integration with financial or public transport APIs.
 2. Implement support for more advanced natural language processing (e.g., text summarization).
