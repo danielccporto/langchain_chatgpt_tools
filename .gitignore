@@ -1,0 +1,25 @@
+# Configuração de chaves e dados sensíveis
+src/utils/api_keys.py
+
+# Arquivos de ambiente virtual
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do editor de código
+.vscode/
+.idea/
+*.log
+
+# Arquivos gerados pelo Streamlit
+.streamlit/
+
+# Arquivos do Python
+*.pyo
+*.pyd
+*.pdb
